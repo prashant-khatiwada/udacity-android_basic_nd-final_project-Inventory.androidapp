@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Inventory</string>
+
+
+    <!--List Menu Item-->
+    <string name="product_name">Name</string>
+    <string name="product_quantity">Quantity</string>
+    <string name="product_price">Price</string>
+    <string name="product_price_unit"> " USD"</string>
+    <string name="product_sell_button">Sell</string>
+    <string name="product_usd_sign">$</string>
+    <string name="product_sold">Sold</string>
+
+    <!-- Editor Menu Overview -->
+    <string name="category_overview">Overview</string>
+    <string name="hint_inventory_name">* Name</string>
+    <string name="hint_inventory_price">* Price</string>
+    <string name="unit_inventory_price">USD</string>
+    <string name="hint_inventory_quantity">* Quantity</string>
+    <string name="hint_inventory_supplier">Supplier</string>
+    <string name="required_field">* Required Field</string>
+
+    <!--Order and Email-->
+    <string name="editor_sold_textview_menu">Sold</string>
+    <string name="editor_sold_textview">Unknown</string>
+    <string name="category_order_btn">Order</string>
+    <string name="category_sell_btn">Sell</string>
+
+    <!-- Action Menus -->
+    <string name="action_discard">Discard</string>
+    <string name="action_keep_editing">Keep Editing</string>
+    <string name="action_save">Save</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_cancel">Cancel</string>
+
+    <!--Image and Camera Import-->
+    <string name="category_gallery_btn_msg">Import Picture</string>
+    <string name="category_camera_button">Camera</string>
+    <string name="category_gallery_button">Gallery</string>
+    <string name="category_camera_btn_msg">Take Picture</string>
+
+    <!--Empty List Menu-->
+    <string name="empty_view_title_text">Inventory Empty</string>
+    <string name="empty_view_subtitle_text">Add some Item/s</string>
+
+    <!--  Menu Item-->
+    <string name="editor_insert_inventory_failed">Error with Saving Inventory</string>
+    <string name="editor_insert_inventory_successful">Inventory Saved</string>
+    <string name="editor_activity_title_new_inventory">Add Inventory</string>
+    <string name="editor_activity_title_edit_inventory">Edit Inventory</string>
+    <string name="editor_delete_inventory_failed">Error with deleting the Inventory</string>
+    <string name="editor_delete_inventory_successful">Inventory deleted</string>
+    <string name="unknown_quantity">Unknown Quantity</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing</string>
+    <string name="delete_dialog_msg">Delete this Inventory</string>
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+    <string name="action_delete_all_entries">Delete All</string>
+    <string name="action_insert_new_data">Insert New Data</string>
+    <string name="error_updating_product">Error Updating Product</string>
+    <string name="editor_activity_title_product">Item Description</string>
+
+
+</resources>
